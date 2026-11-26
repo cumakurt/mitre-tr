@@ -4,7 +4,7 @@ Enterprise ATT&CK 20.1 çerçevesini Türkçe olarak incelemek, savunma çalış
 
 ## PDF
 
-[**PDF kitabı indir**](build/ATTACK-enterprise-tr-kitap.pdf) · 15 MB · Genişletilmiş baskı · 25 Kasım 2026
+[**PDF kitabı indir**](/ATTACK-enterprise-tr-kitap.pdf) · 15 MB · Genişletilmiş baskı · 25 Kasım 2026
 
 PDF içinde tıklanabilir içindekiler, bölüm yer imleri, teknik ve analitik kartları arasında kitap içi bağlantılar ve kaynak bağlantıları bulunur. Okuma ve arama için PDF okuyucunuzun yer imleri panelini veya içindekileri kullanabilirsiniz.
 
